@@ -1,2 +1,4 @@
 https://www.googleadservices.com/pagead/aclk
 https://tpc.googlesyndication.com/
+https://pubads.g.doubleclick.net/gampad/ads
+https://csi.gstatic.com/csi
